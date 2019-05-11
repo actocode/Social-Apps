@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="facebook_app_id">416227779111756</string>
+    <string name="fb_login_protocol_scheme">fb416227779111756</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">edLX6QBftDVvHgaNEEzp0QoLt</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">2VxB5HOU9zSYhLKfSmI7QU4oApJEhxDIfdauBnElyXF7yTAsRh</string>
+</resources>
